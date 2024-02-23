@@ -248,32 +248,44 @@
 				"description": "Офіційний одяг Кецин. На світанку прекрасного обряду ліхтариків нитки, зіткані днями наполегливої ​​праці, переплітаються в легкий, але чудовий образ."
 			},
 			"orchid_s-evening-gown": {
-				"name": "Orchid's Evening Gown",
-				"description": "Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace."
+				"name": "Вечірня сукня з орхідеями",
+				"description": "Офіційний одяг Нін Гуан. Довга блакитна спідниця підкреслює її елегантні вигини, а крила метелика на щиколотках надають вбранню легку витонченість."
 			},
 			"ein-immernachtstraum": {
-				"name": "Ein Immernachtstraum",
-				"description": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her."
+				"name": "Мрії вічної ночі",
+				"description": "Урочисте вбрання принцеси. Нехай благородна назавжди збереже свою мужність, щирість і доброту, щоб жодне зло ніколи не здолало її."
 			},
 			"red-dead-of-night": {
-				"name": "Red Dead of Night",
-				"description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever."
+				"name": "Червона мертва ніч",
+				"description": "Одне з нарядів, який Ділюк носить під час таємних дій. Воно нагадує полум’я, яке танцює в тіні. Багряно-червоні сліди, які він залишає за собою на краях поля зору ворога, назавжди помітять їхні кошмари."
 			},
 			"a-sobriquet-under-shade": {
-				"name": "A Sobriquet Under Shade",
-				"description": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect balance between practicality and elegance, the dress bears a resemblance to Lisa’s old uniform from the Akademiya days."
+				"name": "Незнайомець в тіні",
+				"description": "Одяг, який хтось замовив для Лізи, коли вона знову відвідала Сумеру. Ідеальний баланс між практичністю та елегантністю, сукня нагадує стару уніформу Лізи часів Академії."
 			},
 			"springbloom-missive": {
-				"name": "Springbloom Missive",
-				"description": "Ayaka’s travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to reflect the lifestyle of proper ladies who live in that nation."
+				"name": "Послання весняного квіту",
+				"description": "Дорожнє вбрання Аяки. Його дизайн заснований на сукнях Фонтейну, зображених на ілюстраціях романів, і, здається, відображає стиль життя справжніх жінок, які живуть у цій країні."
 			},
 			"blossoming-starlight": {
-				"name": "Blossoming Starlight",
-				"description": "An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures."
+				"name": "Квітуча зірка",
+				"description": "Вишукане вбрання Клі для найважливіші виступів. Яскравий, як торт, прикрашений кремовими квітами і увінчаний червоними свічками. З ним приходить щастя та посмішки, які наповнять ваші пригоди."
 			},
 			"sailwind-shadow": {
-				"name": "Sailwind Shadow",
-				"description": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted."
+				"name": "ТІнь вітрильного вітру",
+				"description": "Одяг Каеї для його ролі «Бандита з кинджалами» у виставі. Незважаючи на те, що він яскравий і розроблений, щоб максимально привертати увагу, його не важко надіти, хоча потрібен час, щоб розібрати всі аксесуари та кинджали."
+			},
+			"frostflower-dew": {
+				"name": "Роса морозних квітів",
+				"description": "Цей подарунок отримала Шень хе отримала на Свято морських ліхтарів. Цей набір елегантного офіційного вбрання, який замовила для неї Хранитель Хмар. Червоні мотузки все ще прикрашають її руки, але лютий холод у серці Шеньхе зник"
+			},
+			"twilight-blossom": {
+				"name": "Цвітіння сутінок",
+				"description": "Легке та витончене святкове вбрання з акцентом переважно на чорному пасльоновому та блакитному. Його аксесуар для волосся такий же сяючий, як квіти Циньсинь — поєднання, яке найбільше подобається Гань Юй."
+			},
+			"bamboo-rain": {
+				"name": "Бамбуковий дощ",
+				"description": "Формальний одяг, підготовлений торговою гільдією «Фейюнь» для Сін Цю. Бамбукові візерунки вишукані, а крій дуже приємний, але улюбленим аспектом одягу Сін Цю є його внутрішні кишені, куди можна запхати тонкий роман."
 			}
 		}
 	},
